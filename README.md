@@ -65,7 +65,7 @@ OraMonitor can run many modern operating systems, such as Windows, Linux and Mac
 ### Quick start
 
 #### Installing on Windows
-We use The jpackage tool to produce a Java application image that includes all the necessary dependencies.
+We use the jpackage tool to produce a Java application image that includes all the necessary dependencies.
 It will be able to produce a native package in a platform-specific format, such as an exe on Windows or a dmg on macOS. So you can double click the oramonitor.exe to run the app.
 
 #### Installing on Linux
